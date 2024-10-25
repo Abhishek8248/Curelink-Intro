@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    height: 100vh;
+    font-family: monospace;
+    text-align: center;
+    color: #f21990;
+}
+
+.banner{
+    height: 100%;
+    width: 100%;
+    background-image: url(/Assets/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logon{
+    height: 500px;
+    width: 100%;
+    max-width: 300px;
+    background-color: rgba(216, 191, 216, 0.301);
+    inset: 0;
+    position: fixed;
+    margin: auto;
+    border-radius: 16px;
+    box-shadow: 0px 0px 135px -20px #000;
+}
+
+.profile{
+    width: 100%;
+    height: auto;
+    border-radius:100%;
+    position: static;
+    margin: auto;
+    scale: 0.9;
+}
+h2{
+    padding-top: 20px;
+}
+
+p{
+    color: white;
+    font-size: 15px;
+}
+
+.curelink-logo{
+    width: 100%;
+    height: auto;
+    scale: 0.5;
+}
+
+
+
+
